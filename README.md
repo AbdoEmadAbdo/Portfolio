@@ -7,7 +7,7 @@
 
 ## Education
 			        		
-- B.S., Computer engineering | The University of Modern Engineering for Computer and Information technology at Cairo {Maadi} (_Jan 2019 - may2023_)
+- B.S. Computer engineering | The University of Modern Engineering for Computer and Information technology at Maadi (_Jan 2019 - may2023_)
 
 ## Work Experience
 **DataBase Developer @ FreeLance Services (_Jan 2019 - Sep2023_)**
