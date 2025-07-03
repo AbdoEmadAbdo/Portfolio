@@ -7,10 +7,10 @@
 
 ## Education
 			        		
-- B.S., Physics | The University of Texas at Dallas (_Jan 2019 - may2023_)
+- B.S., Computer engineering | The University of Modern Engineering for Computer and Information technology at Cairo, egypt {Maadi} (_Jan 2019 - may2023_)
 
 ## Work Experience
-**Data Scientist @ Toyota Financial Services (_Jan 2019 - may2023_)**
+**DataBase Developer @ FreeLance Services (_Jan 2019 - Sep2023_)**
 - Uncovered and corrected missing step in production data pipeline which impacted over 70% of active accounts
 - Redeveloped loan originations model which resulted in 50% improvement in model performance and saving 1 million dollars in potential losses
 
@@ -20,6 +20,6 @@
 
 ## Projects
 ### Data-Driven EEG Band Discovery with Decision Trees
-[Publication](https://www.mdpi.com/1424-8220/22/8/3048)
+[Project](https://)
 
 Developed objective strategy for discovering optimal EEG bands based on signal power spectra using **Python**. This data-driven approach led to better characterization of the underlying power spectrum by identifying bands that outperformed the more commonly used band boundaries by a factor of two. The proposed method provides a fully automated and flexible approach to capturing key signal components and possibly discovering new indices of brain activity.
